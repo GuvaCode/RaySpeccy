@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="speccy.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="13"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mainUnit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="29" Y="72"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="keyboardunit.pas"/>
+        <UnitName Value="KeyboardUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="10"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/YaSE-master/UMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="313"/>
+        <CursorPos Y="269"/>
+        <UsageCount Value="19"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/Computer.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="83"/>
+        <CursorPos X="14" Y="88"/>
+        <UsageCount Value="17"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/Computer.Spectrum.Graphic.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="307"/>
+        <CursorPos X="3" Y="74"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/Computer.Spectrum.Tape.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="968"/>
+        <CursorPos X="17" Y="159"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/System.Audio.pas"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="24" Y="29"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/Computer.Spectrum.pas"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="10" Y="11"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Ray4LazExample/acinerella/video.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="23" Y="99"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="38"/>
+        <CursorPos X="12" Y="52"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="57" Y="88"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/SpecZX_Laz/unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="40" Y="57"/>
+        <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Frog Engine/source/FrogApplication.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="181"/>
+        <CursorPos X="25" Y="41"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/SpecZX_Laz/units/ZX80CM.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="449"/>
+        <CursorPos X="90" Y="455"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/YaSE-master/UCrtEffect.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1579"/>
+        <CursorPos X="45" Y="1596"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/YaSE-master/UAddwatch.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="72"/>
+        <CursorPos X="15" Y="72"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/YaSE-master/Emulator/Computer.Spectrum.Disk.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="429"/>
+        <CursorPos X="2" Y="448"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Emulator/Computer.Audio.AY8912.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="685"/>
+        <CursorPos X="49" Y="694"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Ray4Laz/examples/audio/audio_mixed_processor/audio_mixed_processor.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Ray4Laz/examples/audio/audio_raw_stream/audio_raw_stream.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="169"/>
+        <CursorPos X="21" Y="93"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/cpu/z80/z80_sp.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3802"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/snd/computer.audio.ay8910.pas"/>
+        <UnitName Value="Computer.Audio.AY8910"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="49" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/snd/samples.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/misc/sound_engine.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/misc/timer_engine.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/misc/tap_tzx.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="307"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/cpu/cpu_misc.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="57" Y="119"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../dsp-emulator-master/src/misc/main_engine.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/modAY8912.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="710"/>
+        <CursorPos X="46" Y="721"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/modWaveOut.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="52" Y="86"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/modMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1682"/>
+        <CursorPos X="47" Y="1687"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/keyboard.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="10"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/modSpectrum.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Загрузки/source/modZ80.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="399"/>
+        <CursorPos X="64" Y="424"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1269"/>
+        <CursorPos X="11" Y="1281"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/2.2.2/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="226"/>
+        <CursorPos X="56" Y="236"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="dialogunit.pas"/>
+        <ComponentName Value="DataModule1"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DialogUnit"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="19"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Ray4Laz/examples/shaders/shaders_postprocessing/shaders_postprocessing.lpr"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="73"/>
+        <CursorPos X="54" Y="60"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1026" Column="11" TopLine="1013"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1624" Column="11" TopLine="1611"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1636" Column="11" TopLine="1620"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1634" Column="11" TopLine="1620"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="777" Column="28" TopLine="765"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="296" Column="4" TopLine="282"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="174" Column="21" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="144" Column="46" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1462" Column="30" TopLine="1449"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="294" Column="3" TopLine="283"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1610" Column="30" TopLine="1597"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="300" Column="4" TopLine="282"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="303" Column="17" TopLine="282"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="293" Column="26" TopLine="280"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="291" Column="6" TopLine="286"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="290" Column="24" TopLine="277"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="283" Column="18" TopLine="266"/>
+      </Position>
+      <Position>
+        <Filename Value="Emulator/Computer.Spectrum.pas"/>
+        <Caret Line="2193" Column="55" TopLine="2181"/>
+      </Position>
+      <Position>
+        <Filename Value="Emulator/Computer.Spectrum.pas"/>
+        <Caret Line="19" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Emulator/Computer.Spectrum.pas"/>
+        <Caret Line="7" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="291" Column="56" TopLine="275"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="287" Column="60" TopLine="276"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="288" Column="58" TopLine="276"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="286" Column="11" TopLine="276"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="288" Column="59" TopLine="275"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="286" Column="11" TopLine="276"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="288" Column="60" TopLine="276"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="131" Column="52" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="132" Column="53" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="350" Column="68" TopLine="344"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

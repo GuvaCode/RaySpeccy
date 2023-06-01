@@ -1,0 +1,11 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 150
+  HorizontalOffset = 543
+  VerticalOffset = 268
+  Width = 150
+  object OpenDialog1: TOpenDialog
+    Left = 16
+    Top = 8
+  end
+end
